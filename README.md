@@ -1,7 +1,6 @@
 # Awax Page
 Projeto desenvolvido para o módulo de HTML e CSS Avançado do curso Full Stack da B7WEB.
 ##
-
 Um site moderno, completo e dinâmico, desenvolvido para agências de marketing; contém várias seções que exibem tudo o que o cliente deve conhecer da empresa, de uma maneira elegante e organizada.
 
 Mais uma vez, desenvolvendo seu a utilização de frameworks, apenas código puro, inspiração e referências.
