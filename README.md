@@ -5,7 +5,6 @@ Um site moderno, completo e dinâmico, desenvolvido para agências de marketing;
 
 Mais uma vez, desenvolvendo seu a utilização de frameworks, apenas código puro, inspiração e referências.
 
-
 ✅ Desenvolvimento utilizando apenas HTML e CSS.
 ✅ Design 100% responsivo, com um menu suspenso funcional para as versões mobile.
 ✅ Seções de serviços, projetos (com filtro), time, depoimentos, preços e formulário de contato.
